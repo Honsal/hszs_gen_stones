@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Honsal's Generate Stone Module"
+	"author_name" "[KOR]혼살"
+	"info" "This module allows auto generating stones."
+}
